@@ -1,0 +1,4 @@
+ALPACA_API_KEY = 'XXXXX'
+ALPACA_API_SECRET = 'XXXXXXXXXX'
+
+ALPACA_API_BASE_URL = 'https://paper-api.alpaca.markets'
